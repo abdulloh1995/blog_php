@@ -1,0 +1,22 @@
+.category_section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.delete_form {
+  margin-top: 10%;
+  text-align: center;
+}
+.title_delete {
+  margin-bottom: 20px;
+}
+.title_item {
+  font-size: 35px;
+  color: red;
+}
+.delete_buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
